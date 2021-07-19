@@ -1,0 +1,2 @@
+# MODEL-VIEW-CONTROLLER
+code written in PYTHON
